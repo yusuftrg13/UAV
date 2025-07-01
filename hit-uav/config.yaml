@@ -1,0 +1,13 @@
+# YOLOv8 için veri seti konfigürasyonu
+path: c:/Users/Casper/Desktop/UAV/hit-uav  # Veri seti kök dizini
+train: images/train  # Eğitim görüntüleri klasörü
+val: images/val  # Doğrulama görüntüleri klasörü
+test: images/test  # Test görüntüleri klasörü
+
+# Sınıf adları
+names:
+  0: Person  # İnsan
+  1: Car  # Araba 
+  2: Bicycle  # Bisiklet
+  3: OtherVehicle  # Diğer Araçlar
+  4: DontCare  # Önemsiz

@@ -1,0 +1,40 @@
+2025-07-01 22:38:32,724 - INFO - Model ONNX formatýna optimize ediliyor...
+2025-07-01 22:39:51,505 - WARNING - Model optimizasyonu baþarýsýz oldu, orijinal model kullanýlacak
+2025-07-01 22:39:55,711 - INFO - Model yükleniyor: c:\Users\Casper\Desktop\UAV\model_results/security_model_n_v1/weights/best.pt
+2025-07-01 22:39:55,712 - INFO - Cihaz: cpu
+2025-07-01 22:39:56,055 - ERROR - Hata: Video kaynaðý açýlamadý: hit-uav/images/test
+2025-07-01 22:40:36,673 - INFO - Model ONNX formatýna optimize ediliyor...
+2025-07-01 22:40:52,805 - WARNING - Model optimizasyonu baþarýsýz oldu, orijinal model kullanýlacak
+2025-07-01 22:46:09,293 - INFO - Model yükleniyor: c:\Users\Casper\Desktop\UAV\model_results/security_model_n_v1/weights/best.pt
+2025-07-01 22:46:09,294 - INFO - Cihaz: cpu
+2025-07-01 22:46:09,645 - INFO - Video boyutu: 686x386, FPS: 25.0
+2025-07-01 22:46:09,660 - INFO - Çýktý videosu: output.mp4
+2025-07-01 22:46:09,662 - INFO - Güvenlik uyarýlarý için resimler c:\Users\Casper\Desktop\UAV\security_alerts dizinine kaydedilecek
+2025-07-01 22:46:09,663 - INFO - Nesne tespiti baþlatýlýyor...
+2025-07-01 22:46:15,417 - ERROR - Hata: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-07-01 22:46:52,851 - INFO - Model yükleniyor: c:\Users\Casper\Desktop\UAV\model_results/security_model_n_v1/weights/best.pt
+2025-07-01 22:46:52,852 - INFO - Cihaz: cpu
+2025-07-01 22:46:53,211 - INFO - Video boyutu: 686x386, FPS: 25.0
+2025-07-01 22:46:53,229 - INFO - Çýktý videosu: test_sonuc.jpg
+2025-07-01 22:46:53,230 - INFO - Güvenlik uyarýlarý için resimler c:\Users\Casper\Desktop\UAV\security_alerts dizinine kaydedilecek
+2025-07-01 22:46:53,230 - INFO - Nesne tespiti baþlatýlýyor...
+2025-07-01 22:46:58,087 - ERROR - Hata: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1367: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvWaitKey'
+
+2025-07-01 22:48:09,607 - INFO - Model yükleniyor: c:\Users\Casper\Desktop\UAV\model_results/security_model_n_v1/weights/best.pt
+2025-07-01 22:48:09,609 - INFO - Cihaz: cpu
+2025-07-01 22:48:10,163 - INFO - Video boyutu: 686x386, FPS: 25.0
+2025-07-01 22:48:10,166 - INFO - Çýktý videosu: output.mp4
+2025-07-01 22:48:10,168 - INFO - Güvenlik uyarýlarý için resimler c:\Users\Casper\Desktop\UAV\security_alerts dizinine kaydedilecek
+2025-07-01 22:48:10,168 - INFO - Nesne tespiti baþlatýlýyor...
+2025-07-01 22:48:15,018 - INFO - Video iþleme tamamlandý.
+2025-07-01 22:48:15,030 - INFO - Nesne tespiti tamamlandý.
+2025-07-01 23:14:10,596 - INFO - Model yükleniyor: c:\Users\Casper\Desktop\UAV\model_results/security_model_n_v1/weights/best.pt
+2025-07-01 23:14:10,597 - INFO - Cihaz: cpu
+2025-07-01 23:14:11,095 - INFO - Video boyutu: 640x512, FPS: 25.0
+2025-07-01 23:14:11,122 - INFO - Çýktý videosu: test_sonuc_2.jpg
+2025-07-01 23:14:11,123 - INFO - Güvenlik uyarýlarý için resimler c:\Users\Casper\Desktop\UAV\security_alerts dizinine kaydedilecek
+2025-07-01 23:14:11,124 - INFO - Nesne tespiti baþlatýlýyor...
+2025-07-01 23:14:16,283 - INFO - Güvenlik uyarýsý! Resim kaydedildi: security_alerts\alert_20250701_231416_1.jpg
+2025-07-01 23:14:16,295 - INFO - Video iþleme tamamlandý.
+2025-07-01 23:14:16,299 - INFO - Nesne tespiti tamamlandý.
